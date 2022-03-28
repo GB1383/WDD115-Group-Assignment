@@ -38,7 +38,7 @@ header {
 .link-one {
     display: inline-block;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 26px;
     font-weight: 700;
     background-color: #ca0c0c;
     color: white;
@@ -50,7 +50,7 @@ header {
 .link-two {
     display: inline-block;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 26px;
     font-weight: 700;
     color: white;
     padding: 15px 30px ;
