@@ -67,6 +67,7 @@ h2 {
     font-size: 45px;
     margin-top: 50px;
     margin-bottom: 150px;
+    
 }
 
 main {
@@ -76,6 +77,7 @@ main {
     justify-content: center;
     gap: 12rem;
     padding-bottom: 99px;
+    background-color: rgb(211, 197, 199);
 
 }
 
