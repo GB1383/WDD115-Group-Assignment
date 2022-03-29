@@ -118,7 +118,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 566px;
+    width: 565px;
     gap: 3.2rem;
 }
 
@@ -128,7 +128,7 @@ section {
 }
 
 .container-three h3 {
-    font-size: 34px;
+    font-size: 35px;
     color: white;
 }
 
@@ -146,8 +146,8 @@ section {
     align-items: center;
     justify-content: center;
     gap: 12rem;
-    padding-top: 109px;
-    padding-bottom: 99px;
+    padding-top: 107px;
+    padding-bottom: 98px;
 
 }
 
