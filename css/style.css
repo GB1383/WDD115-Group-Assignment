@@ -15,11 +15,12 @@ header {
     
 }
 
+/*
 .img1 {
     height: 431px;
     width: auto;
 }
-
+*/
 .container-one {
     width: 525px;
     padding-top: 100px;
@@ -95,10 +96,12 @@ h3 {
     font-size: 34px;
 }
 
+/*
 .img2 {
     height: 432px;
     width: auto;
 }
+*/
 
 /* SECTION -3 */
 
@@ -132,11 +135,11 @@ section {
     color: white;
 }
 
-.img3 {
+/*.img3 {
     height: 431px;
     width: auto;
 }
-
+*/
 
 /* Section -4 */
 
@@ -168,6 +171,21 @@ h3 {
 }
 
 .img4 {
+    height: 431px;
+    width: auto;
+}
+
+.img3 {
+    height: 431px;
+    width: auto;
+}
+
+.img2 {
+    height: 431px;
+    width: auto;
+}
+
+.img1 {
     height: 431px;
     width: auto;
 }
