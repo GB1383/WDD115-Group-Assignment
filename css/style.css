@@ -65,7 +65,7 @@ h2 {
     display: flex;
     justify-content: center;
     font-size: 45px;
-       
+    background-color: rgb(211, 197, 199);   
 }
 
 main {
