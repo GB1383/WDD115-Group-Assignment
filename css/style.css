@@ -96,7 +96,7 @@ h3 {
 }
 
 .img2 {
-    height: 430px;
+    height: 432px;
     width: auto;
 }
 
@@ -108,8 +108,8 @@ section {
     align-items: center;
     justify-content: center;
     gap: 13rem;
-    background-color: rgb(68, 60, 60);
-    padding-top: 100px;
+    background-color: #443c3c;
+    padding-top: 99px;
     padding-bottom: 99px;
 
 }
@@ -118,7 +118,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 565px;
+    width: 564px;
     gap: 3.2rem;
 }
 
