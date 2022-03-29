@@ -16,7 +16,7 @@ header {
 }
 
 .img1 {
-    height: 430px;
+    height: 432px;
     width: auto;
 }
 
@@ -28,7 +28,7 @@ header {
 
 .container-one h1 {
     color: white;
-    font-size: 55px;
+    font-size: 56px;
     margin-top: 100px;
     margin-bottom: 40px;
 }
@@ -38,7 +38,7 @@ header {
 .link-one {
     display: inline-block;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 26px;
     font-weight: 700;
     background-color: #ca0c0c;
     color: white;
@@ -50,7 +50,7 @@ header {
 .link-two {
     display: inline-block;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 26px;
     font-weight: 700;
     color: white;
     padding: 15px 30px ;
@@ -88,7 +88,7 @@ main {
 }
 
 .container-two p {
-    font-size: 23px;
+    font-size: 22px;
 }
 
 h3 {
@@ -96,7 +96,7 @@ h3 {
 }
 
 .img2 {
-    height: 430px;
+    height: 432px;
     width: auto;
 }
 
