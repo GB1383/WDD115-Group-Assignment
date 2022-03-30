@@ -1,5 +1,5 @@
 # WDD115-Group-Assignment
-This is a Group Assignment
+This is a College Group Assignment
 
 Team  
 [Gobind Gobind](https://github.com/GB1383)  
