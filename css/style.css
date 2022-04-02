@@ -173,22 +173,25 @@ h3 {
 }
 
 /*form-section*/
-.form-head {
-    background-color: #222;
-    color: #fff;
-    padding: 20px 40px;
-  }
+
   
  .form-section h4 {
     margin: 0;
     font-size: 1.5rem;
     text-align: center;
+    color: #000000;
+    
   }
   
-  form {
-    padding: 30px 40px;
-  }
-  
+    form {
+        padding: 30px 40px;
+        background-color: #ffffff;
+        width: 100%;
+        max-width: 400px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
   .form-control {
     margin-bottom: 10px;
     padding-bottom: 20px;
