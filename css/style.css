@@ -172,6 +172,110 @@ h3 {
     width: auto;
 }
 
+/*form-section*/
+.form-head {
+    background-color: #222;
+    color: #fff;
+    padding: 20px 40px;
+  }
+  
+ .form-section h4 {
+    margin: 0;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  form {
+    padding: 30px 40px;
+  }
+  
+  .form-control {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+  }
+  
+  .form-control label {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  
+  .form-control input {
+    border: 2px solid #e0e0e0;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: 14px;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .form-control input:focus {
+    outline: 0;
+    border-color: #8700a8;
+  }
+  
+  /* Applied with JS */
+  .form-control.success input {
+    border-color: #05c555;
+  }
+  
+  /* Applied with JS */
+  .form-control.error input {
+    border-color: #e01111;
+  }
+  
+  /* Icons */
+  .form-control span {
+    visibility: hidden;
+    position: absolute;
+    top: 36px;
+    right: 10px;
+  }
+  
+  /* Check circle icon */
+  .form-control.success span.fa-check-circle {
+    color: #05c555;
+    visibility: visible;
+  }
+  
+  /* Error icon */
+  .form-control.error span.fa-exclamation-circle {
+    color: #e01111;
+    visibility: visible;
+  }
+  
+  /* Error message */
+  .form-control small {
+    color: #e01111;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+  }
+  
+  /* Applied with JS */
+  .form-control.error small {
+    visibility: visible;
+  }
+  
+  form button {
+    background-image: linear-gradient(45deg, #8700a8, #ff52a0);
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 10px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  form button:hover {
+    background-image: linear-gradient(45deg, #ff52a0, #8700a8);
+    transition: ease-in-out;
+  }
+  
 footer {
     padding: 25px;
     color: white;
