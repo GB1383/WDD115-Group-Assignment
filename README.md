@@ -2,8 +2,8 @@
 
 This is a College Group Assignment
 
-Team
-Gobind Gobind
+Team  
+Gobind Gobind  
 Sarbjeet Kaur
 Poliana Nazario
 
