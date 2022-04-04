@@ -3,9 +3,9 @@
 This is a College Group Assignment
 
 Team  
-Gobind Gobind  
-Sarbjeet Kaur  
-Poliana Nazario
+[Gobind Gobind](https://github.com/GB1383)  
+[Sarbjeet Kaur](https://github.com/sarbjeet7)  
+[Poliana Nazario](https://github.com/Polinazario)
 
 Assignment Content
 
