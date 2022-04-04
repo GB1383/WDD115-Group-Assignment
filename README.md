@@ -19,7 +19,7 @@ You will have two weeks to complete the assignment.
 
 What do you need to do to complete the assignment:
 
-Manage one of the teammates to be GitHub responsible  
+* Manage one of the teammates to be GitHub responsible  
 Agree on a project that you all want to make  
 Make the Main branch and protect it from directly pushing commits into it.  
 Make a Develop branch and merge into it the feature branches.  
