@@ -178,6 +178,7 @@ h3 {
 /*form-section*/
 section.form-section h3 {
   color: #fff;
+  text-transform: capitalize;
 }
   
  .form-section h4 {
