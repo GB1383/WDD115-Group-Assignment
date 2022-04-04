@@ -16,7 +16,6 @@ You will have to do a project that all the parties agree on. After that, you wil
 The assessment should be consistent with 50 commits and at least 10 merges, the project itself should be legitimate, a website that you are creating or any project that involves code that you see fit as well you will need to make the main branch protected and create a develop branch, that is the only one branch that can be merged into main, all the feature branches should be merge into the develop branch.
 
 You will have two weeks to complete the assignment.
-
 What do you need to do to complete the assignment:
 
 * Manage one of the teammates to be GitHub responsible  
